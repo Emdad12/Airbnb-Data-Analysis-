@@ -8,7 +8,8 @@ This project explores an **Airbnb dataset** and showcases key insights through a
 )
 
 ---
-##View full Dashboard
+## View full Dashboard  
+
 [Click Here](aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9kMTYzZTQyNTMxNTBlMTRlL0VlZXdfWTVtaU1oT3F0WlRpcFVKTUJZQjJzYVJmcDhtd0VuTERONkphbGFSMXc_cnRpbWU9RnNBT3kwc1ozVWc)
 
 ## Dataset  
